@@ -1,0 +1,7 @@
+{
+  "name": "ion_deneme",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
